@@ -1,4 +1,4 @@
-#Reading Beacon/iBeacons information via Raspberry PI 
+##Reading Beacon/iBeacons information via Raspberry PI 
 
 TODO: Write a project description
 
